@@ -1,0 +1,143 @@
+#site{
+	margin: 0px 150px;
+}
+
+.haut{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: black;
+	height: 40px;
+	padding: 0px 50px;
+}
+.haut span{
+	font-size: 18px;
+	color:white;
+	font-weight: bold;
+}
+.haut a{
+	color: white;
+	padding-right: 10px;
+}
+.m1 button {
+	border: 1px green;
+	border-radius: 10px;
+	background-color: green;
+	color: white;
+}
+.mil{
+	display: flex;
+	justify-content: space-between;
+	background-color: black;
+	height: 580px;
+	padding: 0px 80px 0px 30px;
+
+}
+.m1 {
+	margin-top: 180px;
+	color: white;
+}
+.mil img{
+	margin-top: 50px;
+}
+.mil button{
+	background-color: transparent;
+	border:1.5px solid green;
+	color: green;
+	border-radius: 15px;
+}
+h1{
+	font-size: 46px;
+	font-weight: bold;
+}
+#blan span .fa{
+	height: 60px;
+	width: 60px;
+	border-radius: 30px;
+	border:1px solid;
+}
+.trois{
+	display: flex;
+	justify-content: space-around;
+}
+.trois .kab{
+	height: 70px;
+	width: 70px;
+	border: 1px solid;
+	border-radius: 35px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.tr{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.tr .btn{
+	background-color: transparent;
+	color: cyan;
+}
+#blan h1{
+	margin-left: 10em;
+}
+#blan hr{
+	border:2px solid gray;
+	width: 10%;
+}
+h5{
+	font-weight: bold;
+}
+.ch{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	height: 120px;
+	align-items: center;
+}
+.ecout{
+	height: 420px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+
+}
+#pfin{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+    height: 400px;
+}
+textarea{
+	padding: 10px 100px;
+	margin: 20px 0px;
+}
+input{
+	padding: 10px 60px;
+	margin: 0px 10px;
+}
+footer{
+	background-color: black;
+	color: white;
+	padding-top: 40px;
+	margin: 0 150px;
+}
+#pied a {
+	color: #c6c6c6;
+}
+
+#pied{
+	display: flex;
+	justify-content: space-around;
+	border-bottom: 1px solid #ccc;
+
+}
+.fin{
+	height: 30px;
+	display: flex;
+	justify-content: space-between;
+	padding: 5px 10px;
+}
+
